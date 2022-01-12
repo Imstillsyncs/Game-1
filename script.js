@@ -32,7 +32,7 @@ LogRocket.identify('q0medy/game', {
 LogRocket.captureMessage('Something is wrong!', {
   tags: {
     // additional data to be grouped as "tags"
-    subscription: 'Pro',
+    subscription: 'members',
   },
   extra: {
     // additional arbitrary data associated with the event
